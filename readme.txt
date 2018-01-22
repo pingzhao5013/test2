@@ -6,3 +6,4 @@ Git tracks changes of all files.
 Here is a new testing-- adding a new line.
 creating a branch is easy. testing branch. so this line can't be seen in the master
 branch.
+Created an awesome function in dev!!!
